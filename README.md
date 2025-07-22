@@ -17,13 +17,15 @@ An intelligent, secure, and scalable finance platform powered by AI — built wi
 
 ## 🧠 Features
 
-* ✅ **User Authentication** with Supabase
-* 📊 **AI-Powered Insights** on financial data
-* 📅 **Recurring Task Scheduling** with Inngest
-* 🔒 **Real-time Security & Anomaly Detection** with ArcJet
-* 🎨 **Modern & Responsive UI** using Tailwind CSS + Shadcn UI
-* ⚙️ **ORM & DB Management** with Prisma + Supabase Postgres
-* 🧩 Fully modular architecture with scalable API routes
+* ✅ ** User Auth – Secure login/signup with Supabase
+* 📊 ** AI Insights – Categorize & analyze financial data
+* 📅 ** Inngest Jobs – Scheduled alerts & workflows
+* 🔒 ** ArcJet Security – Bot & anomaly protection
+* 🎨 ** Modern UI – Built with Tailwind + Shadcn components
+* ⚙️ ** Database ORM – Prisma + Supabase Postgres
+* 🧩 ** Fully modular architecture with scalable API routes
+* 📈 ** Real-Time Dashboards – Track expenses visually
+* 🌐 ** API Routes – Scalable, modular architecture
 
 ---
 
