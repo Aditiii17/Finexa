@@ -29,15 +29,17 @@ An intelligent, secure, and scalable finance platform powered by AI — built wi
 
 ## 🛠️ Tech Stack
 
-| Tech          | Description                        |
-| ------------- | ---------------------------------- |
-| **Next.js**   | App framework with SSR/ISR support |
-| **Supabase**  | Backend-as-a-service (Auth + DB)   |
-| **Tailwind**  | Utility-first CSS framework        |
-| **Prisma**    | Type-safe ORM for PostgreSQL       |
-| **Inngest**   | Background jobs & event workflows  |
-| **ArcJet**    | AI-powered request protection      |
-| **Shadcn UI** | Accessible UI components           |
+| Tech          | Use                                    |
+| ------------- | -------------------------------------- |
+| **Next.js**   | Builds the website and handles pages   |
+| **Supabase**  | Stores and manages data (database)     |
+| **Tailwind**  | Styles the website (colors, layout)    |
+| **Prisma**    | Helps connect and use the database     |
+| **Inngest**   | Runs tasks in the background           |
+| **ArcJet**    | Protects the app from spam or attacks  |
+| **Shadcn UI** | Ready-made design components           |
+| **Clerk**     | Handles login and signup (auth system) |
+
 
 ---
 
