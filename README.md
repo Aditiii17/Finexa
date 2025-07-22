@@ -122,6 +122,9 @@ model Expense {
 ```
 
 ## Screenshots
+![WhatsApp Image 2025-07-22 at 14 53 26_88aa0057](https://github.com/user-attachments/assets/8a58d0ee-db1a-4a12-9ff1-1b98ac1dc247)
+![WhatsApp Image 2025-07-22 at 14 53 43_a750aa78](https://github.com/user-attachments/assets/75216e94-5fe2-4571-9918-b8d888297659)
+![WhatsApp Image 2025-07-22 at 14 54 02_7301c4fe](https://github.com/user-attachments/assets/387e83a5-a1f0-42d6-bfa6-bd84d1af81f4)
 
 ![WhatsApp Image 2025-07-22 at 12 28 25_51f08b03](https://github.com/user-attachments/assets/de0c2b90-9c0d-418a-aad4-fd2214128161)
 ![WhatsApp Image 2025-07-22 at 12 28 12_7dc8e958](https://github.com/user-attachments/assets/bc89f39c-d623-4d01-8924-9539b99164ba)
