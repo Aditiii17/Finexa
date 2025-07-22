@@ -145,24 +145,6 @@ model Expense {
 }
 ```
 
----
-
-## 🧪 Testing
-
-* Coming soon: Playwright or Cypress for E2E tests
-* Unit testing with `vitest` or `jest` supported
-
----
-
-## 📈 Roadmap
-
-* [x] Basic AI integration (classification)
-* [ ] Full financial forecasting with LLMs
-* [ ] Role-based dashboards (user/admin)
-* [ ] Stripe integration for billing
-
----
-
 ## 🧑‍🎓 Screenshots
 
 ![WhatsApp Image 2025-07-22 at 12 28 25_51f08b03](https://github.com/user-attachments/assets/de0c2b90-9c0d-418a-aad4-fd2214128161)
@@ -175,12 +157,6 @@ model Expense {
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-Feel free to open a PR or submit issues in the [Issues Tab](https://github.com/your-repo/issues).
-
----
 
 ## 📄 License
 
