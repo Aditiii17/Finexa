@@ -133,13 +133,6 @@ model Expense {
 
 ---
 
-
-## 📄 License
-
-[MIT](./LICENSE)
-
----
-
 ## ✨ Acknowledgments
 
 * [Shadcn UI](https://ui.shadcn.dev/)
