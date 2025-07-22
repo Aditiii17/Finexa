@@ -1,7 +1,7 @@
 
 ---
 
-# 💰 Full Stack AI Finance Platform 🔥
+# 💰 Full Stack AI Finance Platform 
 
 An intelligent, secure, and scalable finance platform powered by AI — built with:
 
@@ -54,7 +54,7 @@ An intelligent, secure, and scalable finance platform powered by AI — built wi
 
 ---
 
-## 🧑‍💻 Getting Started
+##  Getting Started
 
 ### 1. Clone the repo
 
@@ -89,32 +89,6 @@ npx prisma db push
 npm run dev
 ```
 
----
-
-## 🧩 Key Integrations
-
-### 🔐 Supabase Auth
-
-* Sign up, Sign in, and Magic Link
-* Role-based user access
-
-### 📉 AI Finance Tools
-
-* NLP for expense categorization
-* Predictive analytics (ML models optional)
-
-### 🔁 Inngest Scheduler
-
-* Monthly/weekly budget notifications
-* Event-driven processing
-
-### 🛡️ ArcJet Protection
-
-* Rate-limiting and anomaly detection
-* Built-in bot defense for endpoints
-
----
-
 ## 🖼️ UI Components (Shadcn + Tailwind)
 
 * Dashboard Layout
@@ -145,7 +119,7 @@ model Expense {
 }
 ```
 
-## 🧑‍🎓 Screenshots
+## Screenshots
 
 ![WhatsApp Image 2025-07-22 at 12 28 25_51f08b03](https://github.com/user-attachments/assets/de0c2b90-9c0d-418a-aad4-fd2214128161)
 ![WhatsApp Image 2025-07-22 at 12 28 12_7dc8e958](https://github.com/user-attachments/assets/bc89f39c-d623-4d01-8924-9539b99164ba)
@@ -176,5 +150,5 @@ model Expense {
 
 ---
 
-Let me know if you want this README exported to Markdown or PDF format.
+
 
